@@ -1,7 +1,8 @@
 # JGM-AR
 Startersproject voor een AR website
+https://medium.com/chialab-open-source/how-to-deliver-ar-on-the-web-only-with-a-qr-code-e24b7b61f8cb
 
-#stappenplan
+# stappenplan
 1. Download, clone of fork dit project
 2. Open in texteditor of codepen.io en pas aan naar wens
 3. Maak git repository aan en push code
